@@ -3,7 +3,7 @@ import './Header.css';
 const Header=()=>{
 
     return(
-    <div className="navbar"><h1>Top Trending Technologies</h1></div>
+    <div className="navbar"><h1>Trending Technologies</h1></div>
         );
     
 
