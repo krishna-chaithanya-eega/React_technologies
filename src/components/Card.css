@@ -1,0 +1,37 @@
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 18%;
+    padding: 10px;
+    margin: 39px;
+    display: inline-block;
+    height: 330px;
+    margin-bottom: 37px;
+   background-color: white;
+    border-radius: 5px;
+  }
+
+  .card img{
+    width: 403px;
+    height: 235px;
+    border-radius: 5px 20px 5px;
+    
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(170, 165, 165, 0.2);
+    transform: translateY(3px);
+    cursor: pointer;
+    
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .container h3{
+    text-align: center;
+    margin: 10px;
+  }
